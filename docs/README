@@ -1,0 +1,5 @@
+- Install and enable the xajax extension
+- Enable the xajax_helloworld extension
+- Put this HTML code in a template: <input type="button" value="Say hello" onclick="xajax_sayHelloWorld();return false;" />
+- Clear the caches
+- Click the "Say hello" button
